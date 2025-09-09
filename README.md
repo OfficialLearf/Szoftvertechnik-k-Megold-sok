@@ -3,8 +3,8 @@ Szoftvertechnikák tárgyon kiadott házi feladatok megoldásai (C#)
 
 # BMEVIAUAB00 – Házi feladat megoldás
 
-Ez a projekt a **BMEVIAUAB00 – Szoftvertechnikák** tárgy egyik házi feladatának keretében készült (2025 tavaszi félév).  
-A repository az én saját megoldásomat tartalmazza az adott feladat(ok)ra.
+**BMEVIAUAB00 – Szoftvertechnikák** tárgy házi feladatainak keretében készült (2025 tavaszi félév).  
+A repository az én saját megoldásomat tartalmazza az adott feladatokra.
 
 Az eredeti feladatkiírás és sablon a BME oktatóitól származik
 
